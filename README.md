@@ -13,4 +13,4 @@ Mỗi folder là 1 workflow: `workflow.json` để import thẳng vào n8n, `REA
 | _Đang cập nhật_ | |
 
 ---
-Tự động cập nhật bởi n8n · 2026-11-04 17:35
+Tự động cập nhật bởi n8n · 2026-11-05 02:17
